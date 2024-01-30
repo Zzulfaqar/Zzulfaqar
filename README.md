@@ -11,7 +11,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zzulfaqar&label=Profile%20views&color=0e75b6&style=flat" alt="zzulfaqar" /> </p>
 
-- 🌱 I’m currently learning **CyberSecurity**
+- 🌱 I’m currently into **CyberSecurity**
 
 - 📄 Know about my experiences <a href="https://zzulfaqar.github.io/Faqar.git.io/" target="_blank">https://zzulfaqar.github.io/Faqar.git.io/</a>
 
