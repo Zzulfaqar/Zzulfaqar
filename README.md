@@ -1,67 +1,194 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-</head>
-<body>
+<div align="center">
 
-<h1 align="center">Hi, I'm Zulfaqar</h1>
-<h3 align="center">A passionate person eager to learn more</h3>
+# Muhammad Zulfaqar bin Norsaidi
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zzulfaqar&label=Profile%20views&color=0e75b6&style=flat" alt="zzulfaqar" /> </p>
+### Security Analyst & Engineer
 
-- 🌱 I’m currently into **CyberSecurity**
+SOC Operations · SIEM Engineering · Vulnerability Assessment · Security Posture Assessment
 
-- 📄 Know about my experiences <a href="https://zzulfaqar.github.io/Faqar.git.io/" target="_blank">https://zzulfaqar.github.io/Faqar.git.io/</a>
+[![Portfolio](https://img.shields.io/badge/Portfolio-View_Profile-0A66C2?style=for-the-badge&logo=githubpages&logoColor=white)](https://zzulfaqar.github.io/Faqar.git.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mzulfaqar/)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mzulfa1212@gmail.com)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://twitter.com/mzulfaq12" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mzulfa12" height="30" width="40" /></a>
-  <a href="https://linkedin.com/in/mzulfaqar" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mzulfaqar" height="30" width="40" /></a>
-</p>
+![Profile Views](https://komarev.com/ghpvc/?username=zzulfaqar&label=Profile%20Views&color=0e75b6&style=flat)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://couchdb.apache.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/0d6c64dbbf311879f7d563bfc3ccf559f9ed111c/icons/couchdb/couchdb-original.svg" alt="couchdb" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
-  <a href="https://golang.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/>
-  </a>
-  <a href="https://grafana.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  </a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-  </a>
-</p>
+</div>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zzulfaqar&show_icons=true&locale=en&layout=compact" alt="zzulfaqar" /></p>
+---
 
-</body>
-</html>
+## About Me
+
+I am a Security Analyst and Engineer based in Kuala Lumpur, Malaysia, with hands-on experience in security operations, SIEM engineering, vulnerability assessment, security posture assessment, and infrastructure security.
+
+I helped establish and configure a Splunk SIEM environment for centralized security monitoring. I also work in 24/7 SOC operations, where I monitor, triage, and validate SIEM and Cortex XDR alerts across more than 500 endpoints while meeting operational SLA requirements.
+
+My experience includes supporting government and private-sector clients through security assessments, technical reporting, remediation planning, infrastructure configuration, and security awareness initiatives.
+
+---
+
+## Professional Highlights
+
+- Installed and configured Splunk server components for centralized security log monitoring.
+- Monitor, triage, and validate SIEM and Cortex XDR alerts across more than **500 endpoints**.
+- Delivered a **seven-domain Security Posture Assessment in under three weeks**.
+- Conducted host and internal network vulnerability assessments using Nessus and supporting validation tools.
+- Produced remediation-focused reports for technical teams and management stakeholders.
+- Performed preventive maintenance on more than **200 client endpoints**.
+- Conducted wireless security, phishing awareness, and security posture assessments.
+- Supported firewall, CPE, Cloud ACS, Linux server, and network infrastructure configurations.
+- Contributed to ISO 27001:2022 policy, documentation, and security tool validation activities.
+
+---
+
+## Core Cybersecurity Capabilities
+
+| Area | Skills and Technologies |
+|---|---|
+| SOC Operations | Security monitoring, alert triage, incident validation, log analysis, escalation, SLA-based operations |
+| SIEM and XDR | Splunk, Palo Alto Cortex XDR |
+| Vulnerability Assessment | Nessus, Nmap, Metasploit, Kali Linux, Burp Suite |
+| Security Engineering | Firewall configuration, wireless security, Linux server maintenance, network security |
+| Cloud and Infrastructure | AWS EC2, Microsoft Azure, Cloud ACS, CPE configuration |
+| Monitoring and Performance | Grafana, Prometheus, Apache JMeter |
+| Systems and Automation | Linux, Shell Scripting, Docker, Git, MySQL |
+| Governance and Awareness | ISO 27001:2022, policy review, phishing awareness, security awareness |
+
+---
+
+## Experience
+
+### Securelytics Sdn. Bhd.
+
+**Security Analyst & Engineer**  
+January 2024 – Present
+
+- Maintain Splunk server components and perform preventive maintenance and health checks.
+- Support 24/7 security monitoring through SIEM and XDR platforms.
+- Triage and validate suspicious activity before escalating potential security incidents.
+- Conduct Security Posture Assessments, wireless assessments, and host vulnerability assessments.
+- Validate vulnerabilities, prioritize risks, and prepare technical remediation reports.
+- Support firewall, CPE, Cloud ACS, and client infrastructure configuration.
+- Coordinate with consultants, project teams, and client stakeholders.
+- Support ISO 27001:2022 validation and phishing awareness assessment activities.
+
+### Diaspora Sdn. Bhd.
+
+**Security Analyst – On-the-Job Training**  
+October 2023 – December 2023
+
+- Supported cybersecurity awareness and ISO 27001:2022 policy initiatives.
+- Participated in controlled security assessments using Kali Linux, Burp Suite, Metasploit, and Nmap.
+- Conducted vulnerability and compromise assessment demonstrations using Metasploitable.
+- Evaluated open-source security tools, including Wazuh and Velociraptor.
+- Supported senior ISMS personnel with policy and compliance documentation.
+
+### MIMOS Berhad
+
+**Research and Development Intern**  
+March 2023 – September 2023
+
+- Contributed to Hyperledger Fabric research and performance testing.
+- Supported benchmarking activities using organizational testing tools.
+- Assisted with research into newer Hyperledger Fabric versions.
+- Implemented Grafana dashboards to support blockchain performance monitoring.
+- Contributed to work associated with a performance-testing patent initiative.
+
+---
+
+## Certifications
+
+- Certified Ethical Hacker — EC-Council
+- Microsoft Certified: Azure Fundamentals — AZ-900
+
+---
+
+## Education
+
+### Universiti Pertahanan Nasional Malaysia
+
+**Bachelor of Computer Science — System Security**  
+2020 – 2023
+
+- CGPA: **3.54**
+- Final Year Project: Computer laboratory browser monitoring and detection system
+- Presented at the DSS Exhibition
+
+Relevant areas of study included:
+
+- Computer and Network Security
+- Ethical Hacking
+- Digital Forensics
+- Cryptography
+- Wireless Network Security
+- Information Security Management
+- Defensive Programming
+- Computer Networking
+- Database Systems
+
+---
+
+## Technologies and Tools
+
+### Security Operations
+
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white)
+![Cortex XDR](https://img.shields.io/badge/Cortex_XDR-F04E23?style=flat-square&logo=paloaltonetworks&logoColor=white)
+![Nessus](https://img.shields.io/badge/Nessus-00C176?style=flat-square)
+![Nmap](https://img.shields.io/badge/Nmap-214478?style=flat-square)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=flat-square)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
+
+### Infrastructure and Monitoring
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS_EC2-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat-square)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
+
+### Development and Testing
+
+![Bash](https://img.shields.io/badge/Shell_Scripting-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![JMeter](https://img.shields.io/badge/Apache_JMeter-D22128?style=flat-square&logo=apachejmeter&logoColor=white)
+
+---
+
+## Areas of Experience
+
+- Splunk SIEM implementation and maintenance
+- SOC alert monitoring and validation
+- Host and internal network vulnerability assessment
+- Security Posture Assessment
+- Wireless Security Assessment
+- Firewall and network infrastructure configuration
+- Security awareness and phishing assessment
+- ISO 27001:2022 documentation support
+- Hyperledger Fabric performance testing
+- Monitoring dashboards using Grafana and Prometheus
+
+---
+
+## GitHub Activity
+
+<div align="center">
+
+<img
+  src="https://github-readme-stats.vercel.app/api?username=zzulfaqar&show_icons=true&hide_border=true"
+  alt="Zulfaqar's GitHub statistics"
+/>
+
+</div>
+
+---
+
+## Contact
+
+- Portfolio: [zzulfaqar.github.io/Faqar.git.io](https://zzulfaqar.github.io/Faqar.git.io/)
+- LinkedIn: [linkedin.com/in/mzulfaqar](https://www.linkedin.com/in/mzulfaqar/)
+- Email: [mzulfa1212@gmail.com](mailto:mzulfa1212@gmail.com)
+
+> References are available upon request.
